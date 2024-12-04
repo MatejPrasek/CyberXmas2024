@@ -75,3 +75,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# To prevent leaking secrets by accident
+db-config.json
