@@ -41,7 +41,7 @@ This is a sample desktop app created with Electron js and mysql.
 
         npm start
 
-
+6. Have a great Christmas!
 
 
 
